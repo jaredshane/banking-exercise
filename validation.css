@@ -1,0 +1,8 @@
+#appemail:valid, #linkedin:valid {
+	background-color: green;
+}
+
+#appemail:invalid, #linkedin:invalid {
+	background-color: red;
+}
+
